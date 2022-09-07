@@ -1,0 +1,76 @@
+header {
+    font-size:29px;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif ;
+    
+    background-color: antiquewhite;
+    color:rgb(127, 78, 15);
+    position: fixed;
+    width: 120%;
+    opacity: ;
+}
+
+
+body {
+    background-color: antiquewhite;
+    margin:0;
+
+}
+
+
+img {
+    width: 120px;
+}
+
+.websitelogo {
+    position: absolute;
+    top: 10px;
+    left: 10px;
+    z-index: 1;
+}
+
+/* Styling Navbar */
+
+nav {
+    position: fixed;
+    top: 150px;
+    width: 100%;
+    background-color:wheat;
+    color: black;
+}
+
+.searchcontainer {
+    padding-left: 500px;
+}
+
+.searchbar {
+   padding:50;
+
+}
+
+.hydrangea {
+    margin-top:;
+    margin-left: 160px;
+}
+
+.searchbar h2 {
+    margin:0;
+}
+
+
+a {
+    color: black;
+}
+
+ol {
+    width: 90%;
+    display: flex;
+    justify-content:space-between;
+    list-style: none;
+}
+
+main {
+
+    padding-top: 150px;
+}
+
+
