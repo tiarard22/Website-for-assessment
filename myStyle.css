@@ -22,7 +22,7 @@ img {
 }
 
 .websitelogo {
-    position: absolute;
+    position: fixed;
     top: 10px;
     left: 10px;
     z-index: 1;
@@ -73,4 +73,9 @@ main {
     padding-top: 150px;
 }
 
+footer {
+    
+}
+
+    
 
