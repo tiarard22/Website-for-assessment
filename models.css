@@ -29,18 +29,6 @@ img {
     width: 120px;
 }
 
-.image1 {
-float: right;
-border-radius: 10px;
-height: auto;
-width: 40%;
-max-width: 100%
-
-
-
-
-}
-
 .websitelogo {
     position: fixed;
     top: 10px;
@@ -101,14 +89,17 @@ main {
   
 }
 
-.list {
-    list-style;
+
+
+
+
+.gigihadid1 {
+    float: right;
 }
 
 
 .footer-container {
     background-color: rgb(212, 163, 113);
-   
 
 
    
@@ -123,12 +114,13 @@ main {
     justify-content: center;
     flex-wrap: wrap;
     margin: 0 auto;
+    
 }
 
 .footer-heading {
     display: flex;
     flex-direction: column;
-    margin-right: 4rem;
+    margin-right: 3rem;
     margin-top: 25rem;
 }
 
@@ -150,7 +142,7 @@ main {
 }
 
 .footer-email-form h2 {
-    margin-top: -20rem;
+    margin-top: -rem;
     
 }
 
@@ -201,6 +193,3 @@ main {
         margin-top: 4rem;
     }
 }
-
-    
-
